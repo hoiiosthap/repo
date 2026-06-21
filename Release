@@ -1,17 +1,8 @@
-Date: Sun, 21 Jun 2026 11:34:29 +0000
-MD5Sum:
- 0db9edda85e31471b876bfd12882913a             5914 Packages
- 8d5c937b836d0d963728c83eb2940343             2563 Packages.bz2
- 5447e4308b8c28b6e63524d7d7716d65               38 Release
-SHA1:
- 3e2c8c518f38f283bd8cd544ca2c4eed3ef5ecf8             5914 Packages
- faf36b67d18793b7e8dd36ecf549a35aea43b405             2563 Packages.bz2
- ce0cb780b8449f4f002a1e951502e74ef7ae98b9               38 Release
-SHA256:
- f62fe6aa2e933924e8f9408fe598ef5e1c5223c04c1a87cdbeb73a37ade6132f             5914 Packages
- e6859814fcc4086bb3f854698cb3238f12975ab5b068f97e82b6df5588ceb8f1             2563 Packages.bz2
- 08d0f6ac3d912f98805c52a99fd6187215a8a789a8c8ac6428d470d8a3fae7ca               38 Release
-SHA512:
- 265a76022d932fb5218f5efe7d7a20e2ca23cc85085d0be981dac7c547cb16f214411198f44168fb88a1764c051731fe59b29e95d87ef4fd9051c98d52b6a17c             5914 Packages
- dadfa965c5d7f286aceddfe1f46fdeee7d4c8fa1c202cc86e4d5be1aa9a1a8e31702d3063d598a8abff6bdbefa8afc67953c4b59bfea27627607d3af081e625c             2563 Packages.bz2
- f80efb1f1b4cacf0bd9c45185ed0a84250e2dcda235756575a383a8e7d58bfb98c448cfbf50e76ab22d71c77888df8d64d11a1bdbee5badffc19bbb2e51c9a81               38 Release
+Origin: Repo Hội Người Dùng iPhone Cổ iOS Thấp
+Label: Repo Hội Người Dùng iPhone Cổ iOS Thấp
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Kho ứng dụng và Tweaks cho IOS cổ

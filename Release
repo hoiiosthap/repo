@@ -1,8 +1,17 @@
-Origin: Repo Hội Người Dùng iPhone Cổ iOS Thấp
-Label: Repo Hội Người Dùng iPhone Cổ iOS Thấp
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: Kho lưu trữ ứng dụng và tweaks cho IOS thấp
+Date: Sun, 21 Jun 2026 11:13:56 +0000
+MD5Sum:
+ 19a5be93a4770ac925c05a61e4660c15             5107 Packages
+ 3978ea7b550c092bec568411c932ba60             2270 Packages.bz2
+ 90b6cc4b49f3a61ecfbef05219bcbec5               38 Release
+SHA1:
+ cbb9d2dc17b44588f9d3c31829d8d9e47733d816             5107 Packages
+ e7e581e9623321bba21497dc91c0af87b8089eec             2270 Packages.bz2
+ d13247fd27a3943f7a0267935563d548861ac395               38 Release
+SHA256:
+ e6e60872a663f9ab24494a78337c23be1a73bb0c770c85e68d95b94cc0f5fea0             5107 Packages
+ a9fae044f900692c494261f424122de803996cbc47470dd4aeef2e63c9c96bd9             2270 Packages.bz2
+ a46329beea09b7aa1a6a7ca4efc1fe0fbc98dfcac66fa48719cf60f8c8bc4f7f               38 Release
+SHA512:
+ 7dbf3f1f3bd185cade96c75b8ff65f15d3c1de8a46f905e979a7f640da7140edf1f5e6c317d4be14808f9d1990640699e2a75246c1da57a7497d31f6f7403180             5107 Packages
+ a7ba9cff4ce6c0f22b85c3311dbe080b70c95a98d92c2f747cb0b26f3a171b60623c78680547c1673a6f4966ad22e81f877c30993ad292a6260895767f5d29e2             2270 Packages.bz2
+ 8e3fd7b2c83c8a19a7f440d4e5ab2a7ca9ce87f3612d48df09cb39475ba411ee04036b8df867485cb33c2c4840d5e6eb50aa62a8a10035d9142c4b8dd696ac6d               38 Release

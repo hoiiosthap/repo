@@ -95,6 +95,20 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preference
 Dev: dustinhowett
 Name: PreferenceLoader
 
+Package: tomkids.contra
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Contra_1.2.3_AppOnly_Deb.deb
+Size: 47834548
+MD5sum: 18bc3702d41407039e0885ca078fe34d
+SHA1: f90e6b6f27715ad38027c805163bd0671e0ddde1
+SHA256: a7c9816d14ffb62d6e2ecc3f68af19b6b8c2b513605695b5100bd6904efcb2a4
+Section: Applications
+Description: Converted from IPA
+Author: Unknown
+Name: Contra 1.2.3
+
 Package: vn.tomkids.tweaks.popuphellosetting
 Version: 2.0.1-1+debug
 Architecture: iphoneos-arm

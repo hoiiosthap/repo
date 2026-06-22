@@ -1,3 +1,32 @@
+Package: Tomkids.AvatarOfWar
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Tomkids.AvatarOfWar_1.0_iphoneos-arm.deb
+Size: 9128096
+MD5sum: e2cdd32af9316fd40df186e25d391204
+SHA1: 1600e130d5384027354ad38c15ef61dcfc5fb51b
+SHA256: 333a8165b6269bea12ee2a2dd0b4ad682cf169e8197a0119fed661a23607f015
+Section: Applications
+Description: Game Avatar Of War 1.0 for low IOS
+ Let's go
+Author: AvatarOfWar_1.0
+Name: AvatarOfWar_1.0
+
+Package: Tomkids.Bricks4.2.1
+Version: 4.2.1
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Tomkids.Bricks4.2.1_4.2.1_iphoneos-arm.deb
+Size: 18886330
+MD5sum: 971730c2557d95008f6880ef497e63c9
+SHA1: fd309a429810e76f532cda363089470f3c3d78c7
+SHA256: d98b3f32f95cabee13ec6dc37824dfb0bff12374e7de13feed4a64156cdfb364
+Section: Applications
+Description: Bricks_4.2.1 for IOS 32bit
+Author: Bricks_4.2.1
+Name: Bricks_4.2.1
+
 Package: Tomkids.Caro1.0
 Version: 1.0
 Architecture: iphoneos-arm

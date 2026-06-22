@@ -109,6 +109,20 @@ Description: Converted from IPA
 Author: Unknown
 Name: Contra 1.2.3
 
+Package: tomkids.phoenix6
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/tomkids.phoenix6_1.0_iphoneos-arm.deb
+Size: 23371328
+MD5sum: 0abde7438b82f26c121c51b133be6ffe
+SHA1: 938c2db8648cb20af99c2663e4080ac99a1eb5b1
+SHA256: 4b6feacc3fe71867ccab85388c536f0eb15ce1340813af7f3937c277d4b944af
+Section: Applications
+Description: Converted from IPA
+Author: Unknown
+Name: Phoenix6
+
 Package: vn.tomkids.tweaks.popuphellosetting
 Version: 2.0.1-1+debug
 Architecture: iphoneos-arm

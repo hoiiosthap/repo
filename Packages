@@ -1,3 +1,31 @@
+Package: Tomkids.Caro1.0
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Tomkids.Caro1.0_1.0_iphoneos-arm.deb
+Size: 10020954
+MD5sum: 9c17dc373c4308414ce9fb6c80f18441
+SHA1: cd96093ca7ef57cd3f5bca489eb17ec9a30b1bfe
+SHA256: 7d6fcf7d93fc4be45b511b5ff22aa12b9f989b64f54861f625bbb209020c2188
+Section: Applications
+Description: Cài đặt app chơi cờ Caro
+Author: Caro_1.0
+Name: Caro1.0
+
+Package: Tomkids.iBooks
+Version: 3.1.3
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Tomkids.iBooks_3.1.3_iphoneos-arm.deb
+Size: 29764968
+MD5sum: 6df3cedf0e5737bdc9768471a1dfe317
+SHA1: 24647264cad6efc3647e2b54b834574d82c9dfdc
+SHA256: 3fbd060a1079a3a89f17f0aa88d2d2ee1437ebaf2900baa0bbf2832f257295fe
+Section: Applications
+Description: Cài đặt iBook cho IOS 6. Lưu ý: không hoạt động trên IOS dưới 6
+Author: iBooks
+Name: iBooks3.1.3
+
 Package: ai.akemi.appsyncunified
 Version: 110.0
 Architecture: iphoneos-arm
@@ -94,6 +122,34 @@ Author: Sam Bingner <maintainer@sbdhi.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
 Dev: dustinhowett
 Name: PreferenceLoader
+
+Package: tomkids.Youtube1.0
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/tomkids.Youtube1.0_1.0_iphoneos-arm.deb
+Size: 5128442
+MD5sum: f0579da6b0a89fd30b79a110c9bc549e
+SHA1: ee3c561eebefc09a2db54134ed4f50d89e34547c
+SHA256: 717178bb41bc8d16205d49e3cada6509edfad52e143169af0c3b798ed121b15b
+Section: Applications
+Description: Converted from IPA
+Author: Unknown
+Name: Youtube1.0
+
+Package: tomkids.Youtube17.28.2YoutubeX1.7.19
+Version: 17.28.2
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/tomkids.Youtube17.28.2YoutubeX1.7.19_17.28.2_iphoneos-arm.deb
+Size: 75322114
+MD5sum: 527fc6b09115b2f8651f0cf8c1c3fc87
+SHA1: ffde9dba3712bd7b579048d9f368021d45b44d98
+SHA256: 1fb2ac6e7328e75046e0a9c0df0ca733b5ede02ea5ef8ebb2d01298045ecdd9c
+Section: Applications
+Description: Converted from IPA
+Author: Unknown
+Name: Youtube17.28.2YoutubeX1.7.19
 
 Package: tomkids.contra
 Version: 1.2.3

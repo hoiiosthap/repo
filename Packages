@@ -2,7 +2,7 @@ Package: Tomkids.AvatarOfWar
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/Tomkids.AvatarOfWar_1.0_iphoneos-arm.deb
+Filename: ./debs/Tomkids.AvatarOfWar_1.0_iphoneos-arm.deb
 Size: 9128096
 MD5sum: e2cdd32af9316fd40df186e25d391204
 SHA1: 1600e130d5384027354ad38c15ef61dcfc5fb51b
@@ -17,7 +17,7 @@ Package: Tomkids.Bricks4.2.1
 Version: 4.2.1
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/Tomkids.Bricks4.2.1_4.2.1_iphoneos-arm.deb
+Filename: ./debs/Tomkids.Bricks4.2.1_4.2.1_iphoneos-arm.deb
 Size: 18886330
 MD5sum: 971730c2557d95008f6880ef497e63c9
 SHA1: fd309a429810e76f532cda363089470f3c3d78c7
@@ -31,7 +31,7 @@ Package: Tomkids.Caro1.0
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/Tomkids.Caro1.0_1.0_iphoneos-arm.deb
+Filename: ./debs/Tomkids.Caro1.0_1.0_iphoneos-arm.deb
 Size: 10020954
 MD5sum: 9c17dc373c4308414ce9fb6c80f18441
 SHA1: cd96093ca7ef57cd3f5bca489eb17ec9a30b1bfe
@@ -45,7 +45,7 @@ Package: Tomkids.iBooks
 Version: 3.1.3
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/Tomkids.iBooks_3.1.3_iphoneos-arm.deb
+Filename: ./debs/Tomkids.iBooks_3.1.3_iphoneos-arm.deb
 Size: 29764968
 MD5sum: 6df3cedf0e5737bdc9768471a1dfe317
 SHA1: 24647264cad6efc3647e2b54b834574d82c9dfdc
@@ -64,7 +64,7 @@ Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.3.1)
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute
 Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
 Provides: appsync, net.angelxwind.appsyncunified
-Filename: debs/nodelete-ai.akemi.appsyncunified.deb
+Filename: ./debs/nodelete-ai.akemi.appsyncunified.deb
 Size: 58440
 MD5sum: 26f898f0b80f3bd842527aa9a9859bb1
 SHA1: f0392e1c1992789ac92c17dc7db3718fca6df899
@@ -82,7 +82,7 @@ Architecture: iphoneos-arm
 Maintainer: Adrien Ruest-Lorquet
 Installed-Size: 2428
 Depends: firmware (>= 5.0), net.angelxwind.appsyncunified | com.linusyang.appsync, com.autopear.installipa | ai.akemi.appinst
-Filename: debs/ca.adrien.appdrop_2.0_iphoneos-arm.deb
+Filename: ./debs/ca.adrien.appdrop_2.0_iphoneos-arm.deb
 Size: 1562812
 MD5sum: 2c002d0d9578bfde9c587d06fb514022
 SHA1: 27e1f1c34092d8f3b94f12d8965703eadcde35c1
@@ -101,7 +101,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/com.arichardson.weepreferenceloader_1.1_iphoneos-arm.deb
+Filename: ./debs/com.arichardson.weepreferenceloader_1.1_iphoneos-arm.deb
 Size: 34562
 MD5sum: 1deaeb81dd1dcd9fe7f9521fa8be6524
 SHA1: 10b0ecae5a95031c1f7485e6e735ba64779fcf79
@@ -121,7 +121,7 @@ Architecture: iphoneos-arm
 Maintainer: dba Technologies, LLC <support@dba-technologies.com>
 Depends: mobilesubstrate, com.arichardson.weepreferenceloader, firmware (>= 5.0)
 Conflicts: com.ashman.clockhide, gsc.ipad
-Filename: debs/tomkids.forecast_2.0.2-12_iphoneos-arm.deb
+Filename: ./debs/tomkids.forecast_2.0.2-12_iphoneos-arm.deb
 Size: 23108
 MD5sum: 5b01a999f795d60ea23bb9ebdde90716
 SHA1: 0a373efc0fa7877c7f667054d28e2ea34543ecdf
@@ -143,7 +143,7 @@ Installed-Size: 156
 Depends: mobilesubstrate (>= 0.9.3367+38)
 Conflicts: safe-mode-fixer-ios7
 Replaces: safe-mode-fixer-ios7
-Filename: debs/com.saurik.substrate.safemode_0.9.6001_iphoneos-arm.deb
+Filename: ./debs/com.saurik.substrate.safemode_0.9.6001_iphoneos-arm.deb
 Size: 20774
 MD5sum: 8ef36f325fbb3649bcb5845fb3223df0
 SHA1: c845a0a58777bf54a5a71b90acf71ab166072c23
@@ -161,7 +161,7 @@ Architecture: iphoneos-arm
 Maintainer: Requis
 Depends: mobilesubstrate (>= 0.9.2586), firmware (>= 2.0), firmware (<= 7.9), preferenceloader
 Conflicts: com.ixmoe.1pwn.weatherx, com.skyglow.stocksx
-Filename: debs/com.skyglow.weatherx_3.5_iphoneos-arm.deb
+Filename: ./debs/com.skyglow.weatherx_3.5_iphoneos-arm.deb
 Size: 155742
 MD5sum: 689171cd5f391aed223f3c0ad7e4ce3b
 SHA1: cef43a162338ef6001d56d4a4085a97e234d0340
@@ -176,7 +176,7 @@ Package: com.tomkids.flappybird
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/com.tomkids.flappybird_1.2_iphoneos-arm.deb
+Filename: ./debs/com.tomkids.flappybird_1.2_iphoneos-arm.deb
 Size: 1302176
 MD5sum: f10001d43c4f0c2d50172be416bbcd53
 SHA1: 73bb9c6793355fd47b879d690e09c8a6b6afbb95
@@ -190,7 +190,7 @@ Package: com.tomkids.foobar2000
 Version: 1.0.33
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/foobar2000_1.0.33.deb
+Filename: ./debs/Tomkids.foobar2000_1.0.33.deb
 Size: 11899968
 MD5sum: 3c58b3039ef8646546fa02293c63c0bc
 SHA1: e2398ce5e875919a3203de74c924655a3825553b
@@ -204,7 +204,7 @@ Package: com.tomkids.pacman
 Version: 1.0.5
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/com.tomkids.pacman_1.0.5_iphoneos-arm.deb
+Filename: ./debs/com.tomkids.pacman_1.0.5_iphoneos-arm.deb
 Size: 1631408
 MD5sum: d4fd784534ed5284a3b98b735879cc05
 SHA1: 8b9bcdeef1a8b04683b51aba550090266ea783df
@@ -221,7 +221,7 @@ Maintainer: Preloading <me@preloading.dev>
 Installed-Size: 960
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 5.0), firmware (<< 11.0)
 Conflicts: bag.xml.tuberepair
-Filename: debs/dev.preloading.tubereplacer_1.0.5_iphoneos-arm.deb
+Filename: ./debs/dev.preloading.tubereplacer_1.0.5_iphoneos-arm.deb
 Size: 325930
 MD5sum: eeffba29ce38081ed0ad2fc95e8401f0
 SHA1: 69127a7bceacc198292c9b37c345453f1b92620e
@@ -240,7 +240,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 526
 Depends: mobilesubstrate
-Filename: debs/tomkids.preferenceloader_2.2.6_iphoneos-arm.deb
+Filename: ./debs/tomkids.preferenceloader_2.2.6_iphoneos-arm.deb
 Size: 67668
 MD5sum: b0bbc6561c4d9620bd48a8f4248b51f4
 SHA1: d31082a25a57c5ff42c0eb21ac550ba93b2bb885
@@ -258,7 +258,7 @@ Package: tomkids.Youtube1.0
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/tomkids.Youtube1.0_1.0_iphoneos-arm.deb
+Filename: ./debs/tomkids.Youtube1.0_1.0_iphoneos-arm.deb
 Size: 5128442
 MD5sum: f0579da6b0a89fd30b79a110c9bc549e
 SHA1: ee3c561eebefc09a2db54134ed4f50d89e34547c
@@ -272,7 +272,7 @@ Package: tomkids.Youtube17.28.2YoutubeX1.7.19
 Version: 17.28.2
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/tomkids.Youtube17.28.2YoutubeX1.7.19_17.28.2_iphoneos-arm.deb
+Filename: ./debs/tomkids.Youtube17.28.2YoutubeX1.7.19_17.28.2_iphoneos-arm.deb
 Size: 75322114
 MD5sum: 527fc6b09115b2f8651f0cf8c1c3fc87
 SHA1: ffde9dba3712bd7b579048d9f368021d45b44d98
@@ -286,7 +286,7 @@ Package: tomkids.contra
 Version: 1.2.3
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/Contra_1.2.3_AppOnly_Deb.deb
+Filename: ./debs/Tomkids.Contra_1.2.3_AppOnly_Deb.deb
 Size: 47834548
 MD5sum: 18bc3702d41407039e0885ca078fe34d
 SHA1: f90e6b6f27715ad38027c805163bd0671e0ddde1
@@ -301,7 +301,7 @@ Version: 5.3.1
 Architecture: iphoneos-arm
 Maintainer: Tomkids
 Depends: firmware (< 9.0)
-Filename: debs/tomkids.nhaccuatui_5.3.1-1_iphoneos-arm.deb
+Filename: ./debs/tomkids.nhaccuatui_5.3.1-1_iphoneos-arm.deb
 Size: 16604312
 MD5sum: b6c2eade3976000947aa910894eaffee
 SHA1: f6a46c4b29acb8d894f4a2125dd505082e5eae1a
@@ -316,7 +316,7 @@ Package: tomkids.phoenix6
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/tomkids.phoenix6_1.0_iphoneos-arm.deb
+Filename: ./debs/tomkids.phoenix6_1.0_iphoneos-arm.deb
 Size: 23371328
 MD5sum: 0abde7438b82f26c121c51b133be6ffe
 SHA1: 938c2db8648cb20af99c2663e4080ac99a1eb5b1
@@ -330,7 +330,7 @@ Package: tomkids.soundwave
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/codevn-com.soundwave.app_1.0.0-102+debug_iphoneos-arm_Deb.deb
+Filename: ./debs/codevn-com.soundwave.app_1.0.0-102+debug_iphoneos-arm_Deb.deb
 Size: 819398
 MD5sum: da4d2cee9adf95a7d7475ba9a6e14961
 SHA1: 665939129dfcf95d9365251aef4a3c5d366bba08
@@ -346,7 +346,7 @@ Architecture: iphoneos-arm
 Maintainer: TomKids
 Installed-Size: 256
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/vn.tomkids.tweaks.popuphellosetting_2.0.2-1+debug_iphoneos-arm.deb
+Filename: ./debs/vn.tomkids.tweaks.popuphellosetting_2.0.2-1+debug_iphoneos-arm.deb
 Size: 8748
 MD5sum: 213348fd957730b472e7048862cac3f5
 SHA1: 774f1c7e61c6035741c4eb20a028bd8d5370790a
